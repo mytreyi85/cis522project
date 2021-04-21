@@ -1,0 +1,1 @@
+Procedure:Select 100 images with masks and the corresponding ones without masks.Put them under the folder named './with_mask_100' and './without_mask_100'Run 'python eigenface.py'
